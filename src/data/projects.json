@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A-Flathub",
+    "imageSrc": "projects/project.png",
+    "description": "Developed Flat-Hub , a platform catering to the diverse needs of both residents and potential tenants.",
+    "skills": ["HTML", "CSS", "JavaScript","MySql","PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B-Bird Detection System using ShuffleNet V2",
+    "imageSrc": "projects/project.png",
+    "description": "a platform to detect different species of birds using their images and voice.",
+    "skills": ["React", "MongoDB", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C-Home Service Management",
+    "imageSrc": "projects/project.png",
+    "description": "a platform to connect service providers and customers who want to avail their services.",
+    "skills": ["HTML", "CSS", "MySql","PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
